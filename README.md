@@ -60,8 +60,21 @@
 ###
 
 <div align="left">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=MikeyTheOng&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MikeyTheOng&locale=en&hide_title=false&layout=compact&card_width=1000&langs_count=10&theme=dracula&hide_border=false&order=2" width="100%" alt="languages graph"  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=MikeyTheOng&locale=en&hide_title=false&layout=compact&card_width=1000&langs_count=10&theme=dracula&hide_border=false&order=2"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=MikeyTheOng&locale=en&hide_title=false&layout=compact&card_width=1000&langs_count=10&theme=default&hide_border=false&order=2"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=MikeyTheOng&locale=en&hide_title=false&layout=compact&card_width=1000&langs_count=10&theme=default&hide_border=false&order=2" 
+      width="100%" 
+      alt="languages graph"
+    />
+  </picture>
 </div>
 
 ###
