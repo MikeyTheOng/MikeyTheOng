@@ -2,20 +2,30 @@
 
 ###
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/MikeyTheOng/MikeyTheOng/refs/heads/main/assets/anime-wave.gif"  />
+<img align="right" height="200" src="https://raw.githubusercontent.com/MikeyTheOng/MikeyTheOng/refs/heads/main/assets/anime-wave.gif" />
 
 ###
 
-<p align="left">Hi! I'm Michael, an aspiring full-stack developer<br>- ✨ Creating ~~bugs~~ features since 2021, graduating in 2025<br>- 📚 Currently learning React Native 📱<br>- 🎉 In my free time, I build gunpla (Gundam plastic models)</p>
+<p align="left">
+Hi! I'm Michael, a Software Engineer (Full-Stack, AI Applications)<br>
+- 💡 I’m a problem-solver who turns ambiguous needs into reliable, well-scoped solutions with clear constraints and thoughtful execution.<br>
+- 🛠️ I build and test AI-assisted internal tools to reduce repetitive workflow friction.<br>
+- 📚 Commonly using TypeScript, Python, Next.js, React, FastAPI, and PostgreSQL.<br>
+- 🎓 Graduated in 2025 | 🇸🇬 Singapore | Open to full-time SWE roles<br>
+- 📸 In my free time, I enjoy photography.
+</p>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/michaelongning/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/michaelongning/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="michaelong.2021@scis.smu.edu.sg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:michaelong.2021@scis.smu.edu.sg" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://michaelongning.com/?utm_source=github&utm_medium=profile_readme" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
   </a>
 </div>
 
